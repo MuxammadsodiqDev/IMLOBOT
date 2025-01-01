@@ -12,7 +12,7 @@ from transliterate import to_cyrillic, to_latin
 
 
 #this is bot token
-BOT_TOKEN = "7795174511:AAHXxg8bQp0vWOFcn3eNlHRDYi8hPuZ0AbM"
+BOT_TOKEN = ""
 TOKEN = BOT_TOKEN
 
 dp = Dispatcher()
